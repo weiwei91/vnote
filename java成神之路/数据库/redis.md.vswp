@@ -1,0 +1,19 @@
+vnote_backup_file_826537664 D:/mysoft/vnote_content/数据库/redis.md
+# redis
+# 数据类型
+* String
+* List
+* Set
+* Hash
+* Zset
+
+# RedisTemplate
+它是spring封装的对象，支持所有的redis原生的api
+
+```
+redisTemplate.opsForValue();//操作字符串 
+redisTemplate.opsForHash();//操作hash 
+redisTemplate.opsForList();//操作list 
+redisTemplate.opsForSet();//操作set 
+redisTemplate.opsForZSet();//操作有序set
+```

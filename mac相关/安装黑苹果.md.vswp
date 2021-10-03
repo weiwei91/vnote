@@ -1,0 +1,76 @@
+vnote_backup_file_826537664 /Users/wei/local/vnote/折腾/安装黑苹果.md
+# 安装黑苹果
+
+重要前提条件：
+
+- 1.bios设置正确
+- 2.efi中驱动选择正确，ddst生成正确（根据自己的电脑配置）
+- 3.1和2做对就没啥问题（等比特币的浪潮过去我在买个好一点的显卡）
+
+# 硬件选择
+i7 8700k  +   Z370  + RX560  
+
+# 制作EFI
+## 制作
+SSDT(本机的)
+## 创建U盘
+## 选择驱动
+## 制作config
+ProperTree 工具打开
+ctrl+shift+r  打开oc 文件（包含SSDT），导入，可以做修改。
+
+## 目前EFI文件如果可用，在配置不变的情况可以一直使用
+
+该EFI是我配置之后可以直接使用的，装的黑苹果一切功能正常
+[EFI.rar](_v_attachments/20210402143656341_28813/EFI.rar)
+这个附件是大神设置的工具包
+[CoffeeLake_Mac.rar](_v_attachments/20210402143656341_28813/CoffeeLake_Mac.rar)
+- 显卡
+- 无线网卡
+- 主板支持EFI启动
+
+
+## 设置z370主板
+
+
+![](_v_images/20210403232610791_1433016347.png =699x)
+
+![](_v_images/20210403232639701_676642924.png =688x)
+
+![](_v_images/20210403232700916_1411712803.png =688x)
+
+![](_v_images/20210403232735842_1288510334.png =680x)
+
+![](_v_images/20210403232755508_768087190.png =681x)
+
+![](_v_images/20210403232813282_717200213.png =678x)
+
+![](_v_images/20210403232830884_158269280.png =700x)
+
+![](_v_images/20210403232848436_1447033974.png =680x)
+
+![](_v_images/20210403232905522_47698743.png =662x)
+
+![](_v_images/20210403232922097_661373270.png =664x)
+
+![](_v_images/20210403232935705_325192018.png =685x)
+
+![](_v_images/20210403232959037_156364911.png =702x)
+
+![](_v_images/20210403233048545_1652558896.png =695x)
+
+![](_v_images/20210403233145260_2053322277.png =685x)
+
+![](_v_images/20210403233209803_1420924883.png =676x)
+
+## efi 分区从u盘移动到ssd
+sudo diskutil list
+挂载红色框内的efi 分区
+sudo diskutil mount disk2s1
+![](_v_images/20210403232015081_2112686835.png =462x)
+
+# 参考资料
+- https://dortania.github.io/OpenCore-Install-Guide/
+- https://blog.daliansky.net/
+- https://github.com/acidanthera/OpenCorePkg/releases
+Setup->Advanced->Power & Performance->CPU - Power Management Control->CPU Lock Configure
