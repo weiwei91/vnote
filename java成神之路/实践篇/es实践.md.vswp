@@ -60,3 +60,9 @@ http.cors.allow-origin: "*"	#当设置允许跨域，默认为*,表示支持所�
 
 部署参考
 [参考部署](https://blog.csdn.net/qq_39680564/article/details/94399977)
+
+## 思考
+es可以当做一个非关系型数据库吗？
+搜索相关文档看到一个有意思的方案，logstash 是个什么东西，xdatapipe有点类似
+
+![](_v_images/20211004111817005_442184988.png)
