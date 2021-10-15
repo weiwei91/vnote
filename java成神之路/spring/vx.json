@@ -1,0 +1,73 @@
+{
+    "created_time": "2021-10-10T01:00:54Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2021-10-10T01:00:54Z",
+            "id": "0",
+            "modified_time": "2021-10-10T01:00:54Z",
+            "name": "Bean的加载和实例化顺序.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-10-10T01:00:54Z",
+            "id": "0",
+            "modified_time": "2021-10-10T01:00:54Z",
+            "name": "Spring Boot 启动原理分析.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-10-10T01:00:54Z",
+            "id": "0",
+            "modified_time": "2021-10-10T01:00:54Z",
+            "name": "SpringBootJar启动原理.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-10-10T01:00:54Z",
+            "id": "0",
+            "modified_time": "2021-10-10T01:00:54Z",
+            "name": "SpringCloud之Ribbon.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-10-10T01:00:54Z",
+            "id": "0",
+            "modified_time": "2021-10-10T01:00:54Z",
+            "name": "spring推荐注入方式.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-10-10T01:00:54Z",
+            "id": "0",
+            "modified_time": "2021-10-10T01:00:54Z",
+            "name": "Spring源码阅读.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "created_time": "2021-10-10T01:00:54Z",
+            "id": "0",
+            "modified_time": "2021-10-10T01:00:54Z",
+            "name": "spring面试题总结.md",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+    ],
+    "id": "0",
+    "modified_time": "2021-10-10T01:00:54Z",
+    "version": "1"
+}
