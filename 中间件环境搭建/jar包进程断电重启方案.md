@@ -19,5 +19,7 @@ nohup java -jar WebSSH.jar &
 
 ```
 
+## 在相应的路径上传jar包
+
 
 
