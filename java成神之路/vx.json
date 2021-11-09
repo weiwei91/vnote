@@ -3,38 +3,26 @@
     "files": [
         {
             "attachment_folder": "20210408234359846_298602360",
-            "attachments": [
-                {
-                    "name": "魏伟_2021_java软件开发工程师.docx"
-                },
-                {
-                    "name": "简历-30k.docx"
-                },
-                {
-                    "name": "简历-25k.docx"
-                },
-                {
-                    "name": "简历-25.docx"
-                }
-            ],
             "created_time": "2021-03-22T01:54:17Z",
-            "modified_time": "2021-04-08T23:55:17Z",
+            "id": "76",
+            "modified_time": "2021-03-22T01:54:17Z",
             "name": "目录.md",
+            "signature": "15472108668221",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-10-01T13:53:17Z",
+            "id": "77",
             "modified_time": "2021-10-01T13:53:17Z",
             "name": "new_note.md",
+            "signature": "104584090125629",
             "tags": [
             ]
         }
     ],
-    "sub_directories": [
+    "folders": [
         {
             "name": "docker相关"
         },
@@ -73,7 +61,16 @@
         },
         {
             "name": "网络"
+        },
+        {
+            "name": "分布式"
+        },
+        {
+            "name": "源码阅读"
         }
     ],
-    "version": "1"
+    "id": "2",
+    "modified_time": "2021-11-09T14:27:08Z",
+    "signature": "23782870385980",
+    "version": 3
 }

@@ -3,116 +3,119 @@
     "files": [
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
+            "id": "38",
             "modified_time": "2021-03-22T01:54:17Z",
             "name": "java8In Action.md",
+            "signature": "117468992013628",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
+            "id": "39",
             "modified_time": "2021-03-22T01:54:17Z",
             "name": "java疑惑.md",
+            "signature": "4940848858428",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
+            "id": "40",
             "modified_time": "2021-03-22T01:54:17Z",
             "name": "java真题与解析.md",
+            "signature": "72762677429564",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
+            "id": "41",
             "modified_time": "2021-03-22T01:54:17Z",
             "name": "maven实战.md",
+            "signature": "93305506006332",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
+            "id": "42",
             "modified_time": "2021-03-22T01:54:17Z",
             "name": "MyBatis从入门到精通.md",
+            "signature": "59985149723964",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
+            "id": "43",
             "modified_time": "2021-03-22T01:54:17Z",
             "name": "springboot揭秘-快速构建微服务体系.md",
+            "signature": "14733374293308",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
+            "id": "44",
             "modified_time": "2021-03-22T01:54:17Z",
             "name": "SpringCloud技术图谱.md",
+            "signature": "133605184144700",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
+            "id": "45",
             "modified_time": "2021-03-22T01:54:17Z",
             "name": "关于单元测试.md",
+            "signature": "129670994101564",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
+            "id": "46",
             "modified_time": "2021-03-22T01:54:17Z",
             "name": "待看书籍列表.md",
+            "signature": "77341112567100",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
+            "id": "47",
             "modified_time": "2021-03-22T01:54:17Z",
             "name": "阿里巴巴开发手册.md",
+            "signature": "48693680702780",
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
-            "attachments": [
-            ],
             "created_time": "2021-03-22T01:54:17Z",
-            "modified_time": "2021-06-02T02:37:55Z",
+            "id": "48",
+            "modified_time": "2021-03-22T01:54:17Z",
             "name": "高效程序员的好习惯.md",
+            "signature": "66388945962300",
             "tags": [
             ]
         }
     ],
-    "sub_directories": [
+    "folders": [
     ],
-    "version": "1"
+    "id": "37",
+    "modified_time": "2021-11-09T14:27:08Z",
+    "signature": "51764582319420",
+    "version": 3
 }
