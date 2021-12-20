@@ -1,0 +1,15 @@
+vnote_backup_file_826537664 /Users/wei/local/vnote/生活点滴/jellyfin.md
+# jellyfin
+
+docker run -d \
+ --name jellyfin
+ --volume /volume1/docker/jellyfin:/config \
+ --volume /volume1/docker/jellyfin/cache:/cache \
+ --volume /volume1/video:/media \
+ --user 0:0 \
+ --group-add=122 \
+ --net=host \
+ --restart=unless-stopped \
+ --device /dev/dri/renderD128:/dev/dri/renderD128 \
+ --device /dev/dri/card0:/dev/dri/card0 \
+ jellyfin/jellyfin

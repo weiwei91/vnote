@@ -1,0 +1,11 @@
+vnote_backup_file_826537664 /Users/wei/local/vnote/中间件环境搭建/nexus环境搭建.md
+# nexus环境搭建
+
+ip：192.168.50.52
+http://192.168.50.52:8081/     账号 admim  密码 weiwei91
+
+# 创建仓库
+wei-release   maven2
+wei-snapshot  
+
+
