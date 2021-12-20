@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "created_time": "2021-10-23T02:51:30Z",
     "files": [
         {
@@ -16,6 +17,18 @@
             "name": "vx_recycle_bin"
         },
         {
+=======
+<<<<<<<< HEAD:vx.json
+    "created_time": "2021-11-09T14:27:08Z",
+========
+    "attachment_folder": "_v_attachments",
+    "created_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:_vnote.json
+    "files": [
+    ],
+    "folders": [
+        {
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "name": "java成神之路"
         },
         {
@@ -25,13 +38,32 @@
             "name": "中间件环境搭建"
         },
         {
+<<<<<<< HEAD
+=======
+<<<<<<<< HEAD:vx.json
+            "name": "中间件环境搭建"
+        },
+        {
+            "name": "images"
+========
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "name": "生活点滴"
         },
         {
             "name": "面经"
+<<<<<<< HEAD
         }
     ],
     "id": "1",
     "modified_time": "2021-10-23T02:51:30Z",
     "version": "1"
+=======
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:_vnote.json
+        }
+    ],
+    "id": "1",
+    "modified_time": "2021-11-09T14:27:08Z",
+    "signature": "48633551160636",
+    "version": 3
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
 }

@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "created_time": "2021-10-23T02:51:30Z",
     "files": [
         {
@@ -7,101 +8,270 @@
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "java8In Action.md",
+=======
+    "created_time": "2021-10-23T03:01:05Z",
+    "files": [
+        {
+            "attachment_folder": "",
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "38",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "java8In Action.md",
+            "signature": "117468992013628",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
+<<<<<<< HEAD
             "created_time": "2021-10-23T02:51:30Z",
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "java疑惑.md",
+=======
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "39",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "java疑惑.md",
+            "signature": "4940848858428",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
+<<<<<<< HEAD
             "created_time": "2021-10-23T02:51:30Z",
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "java真题与解析.md",
+=======
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "40",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "java真题与解析.md",
+            "signature": "72762677429564",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
+<<<<<<< HEAD
             "created_time": "2021-10-23T02:51:30Z",
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "maven实战.md",
+=======
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "41",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "maven实战.md",
+            "signature": "93305506006332",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
+<<<<<<< HEAD
             "created_time": "2021-10-23T02:51:30Z",
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "MyBatis从入门到精通.md",
+=======
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "42",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "MyBatis从入门到精通.md",
+            "signature": "59985149723964",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
+<<<<<<< HEAD
             "created_time": "2021-10-23T02:51:30Z",
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "springboot揭秘-快速构建微服务体系.md",
+=======
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "43",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "springboot揭秘-快速构建微服务体系.md",
+            "signature": "14733374293308",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
+<<<<<<< HEAD
             "created_time": "2021-10-23T02:51:30Z",
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "SpringCloud技术图谱.md",
+=======
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "44",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "SpringCloud技术图谱.md",
+            "signature": "133605184144700",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
+<<<<<<< HEAD
             "created_time": "2021-10-23T02:51:30Z",
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "关于单元测试.md",
+=======
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "45",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "关于单元测试.md",
+            "signature": "129670994101564",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
+<<<<<<< HEAD
             "created_time": "2021-10-23T02:51:30Z",
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "待看书籍列表.md",
+=======
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "46",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "待看书籍列表.md",
+            "signature": "77341112567100",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
+<<<<<<< HEAD
             "created_time": "2021-10-23T02:51:30Z",
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "阿里巴巴开发手册.md",
+=======
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "47",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "阿里巴巴开发手册.md",
+            "signature": "48693680702780",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         },
         {
             "attachment_folder": "",
+<<<<<<< HEAD
             "created_time": "2021-10-23T02:51:30Z",
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "高效程序员的好习惯.md",
+=======
+<<<<<<<< HEAD:java成神之路/读书笔记/vx.json
+            "created_time": "2021-03-22T01:54:17Z",
+            "id": "48",
+            "modified_time": "2021-03-22T01:54:17Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/读书笔记/_vnote.json
+            "name": "高效程序员的好习惯.md",
+            "signature": "66388945962300",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         }
     ],
     "folders": [
+<<<<<<< HEAD
         {
             "name": "vnote_images"
         }
@@ -109,4 +279,11 @@
     "id": "0",
     "modified_time": "2021-10-23T02:51:30Z",
     "version": "1"
+=======
+    ],
+    "id": "37",
+    "modified_time": "2021-11-09T14:27:08Z",
+    "signature": "51764582319420",
+    "version": 3
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
 }

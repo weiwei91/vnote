@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "created_time": "2021-10-23T02:51:30Z",
     "files": [
         {
@@ -7,13 +8,38 @@
             "id": "0",
             "modified_time": "2021-10-23T02:51:30Z",
             "name": "我的技能树.md",
+=======
+    "created_time": "2021-10-23T03:01:05Z",
+    "files": [
+        {
+            "attachment_folder": "",
+<<<<<<<< HEAD:java成神之路/技能树/vx.json
+            "created_time": "2021-04-08T23:57:44Z",
+            "id": "66",
+            "modified_time": "2021-04-08T23:57:44Z",
+========
+            "attachments": [
+            ],
+            "created_time": "2021-10-23T03:01:05Z",
+            "modified_time": "2021-10-23T03:01:05Z",
+>>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e:java成神之路/技能树/_vnote.json
+            "name": "我的技能树.md",
+            "signature": "80583812875581",
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
             "tags": [
             ]
         }
     ],
     "folders": [
     ],
+<<<<<<< HEAD
     "id": "0",
     "modified_time": "2021-10-23T02:51:30Z",
     "version": "1"
+=======
+    "id": "65",
+    "modified_time": "2021-11-09T14:27:09Z",
+    "signature": "139978915611965",
+    "version": 3
+>>>>>>> 3ac7ec623538746fb222a9334f00e28ccb09dd4e
 }
