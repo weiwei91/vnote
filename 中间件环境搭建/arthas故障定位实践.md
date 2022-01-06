@@ -18,4 +18,5 @@ https://arthas.aliyun.com/doc/
 * watch 观察入参及返回
 * jad 反编译已加载的类
 * monitor 监控
-* 
+watch com.hikvision.iland.util.SendMsgUtils sendSmsMessage "{params,returnObj}"  -x 2 -n 1
+
