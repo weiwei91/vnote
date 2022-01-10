@@ -21,9 +21,5 @@ www.dynu.com
 ![](_v_images/20211023142044321_1757875950.png)
 
 
-用户登录名称 weiwei@1082264413151356.onaliyun.com
-AccessKey ID LTAI5tPhWHkg1uNchD1jWbcB
-AccessKey Secret jaFDoRCwwMXPdjjgKO9C05m234e87f
 
-<img src="https://weiweiblog.oss-cn-hangzhou.aliyuncs.com/img/20211023162604.png" width = "500" />
 

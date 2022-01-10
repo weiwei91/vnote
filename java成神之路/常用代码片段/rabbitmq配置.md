@@ -5,7 +5,6 @@
 @Configuration
 public class RabbitmqConfig {
 
-
     @Value("${component.id}")
     String componentId;
 
@@ -17,9 +16,6 @@ public class RabbitmqConfig {
     public Queue uploadObject () {
         return new Queue(Constants.QUEUE_KEY_UPLOAD_OBJECT);
     }
-  
-
-
     @Bean
     public DirectExchange exchangeOfSection (){
         return new DirectExchange(componentId);
