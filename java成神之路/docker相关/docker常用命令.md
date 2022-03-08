@@ -21,4 +21,3 @@ docker stop $(docker ps -a -q)  停止所有运行的容器
 docker update --restart always/no 【容器名字】   设置容器开机自启动
 
 ```
-
