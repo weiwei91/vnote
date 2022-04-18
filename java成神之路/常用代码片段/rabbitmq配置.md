@@ -1,6 +1,6 @@
 # rabbitmq配置
 
-```
+```java
 
 @Configuration
 public class RabbitmqConfig {
