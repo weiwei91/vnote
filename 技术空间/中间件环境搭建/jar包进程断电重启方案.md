@@ -11,7 +11,7 @@ chmod +x /home/runJar2.sh
 
 ## 编写开机自动执行脚本
 
-```
+```java
 #!/bin/bash
 
 cd /opt/test
